@@ -2,7 +2,7 @@
 Creates ipset shell script from an autonomous system (AS) IP addresses from RIPE database.<br />
 Supports both of IPv4 and IPv6.<br />
 <br />
-Usage:  ./as2ipset.py <two letters country code> <.{/AS_ipvX.ipset}><br />
+Usage:  ./as2ipset.py \<ASXXXX\> \<.{/AS_ipvX.ipset}\><br />
 <br />
 AS_ipv4.ipset:<br />
 ipset flush ipv4_AS<br />
